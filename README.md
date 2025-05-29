@@ -1,6 +1,6 @@
 # HydroModel
 
-This Jupyter Notebook contains hydrogeographic analysis and modeling tools designed for archaeological or environmental applications. It was originally developed as part of research exploring hydrological systems and water resource modeling, using Python and spatial data.
+This Jupyter Notebook contains hydrological analysis and modeling tools designed for archaeological or environmental applications. It was originally developed as part of research exploring hydrological systems and water resource modeling, using Python and spatial data.
 
 🔍 Overview
 The notebook includes code and methods for:
